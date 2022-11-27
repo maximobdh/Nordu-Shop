@@ -1,0 +1,17 @@
+body{
+    background-color: #ffafcc;
+    background-image: url(/imagenes/nombre\ tienda.jpeg);
+    background-position: center;
+}
+
+#contenedor{
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    background: #ff99c8; 
+    border-radius: 20px;
+}
+
+.principal{
+    margin-top: 75px;
+}
