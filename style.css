@@ -1,7 +1,6 @@
 body{
-    background-color: #ffafcc;
     background-image: url(/imagenes/nombre\ tienda.jpeg);
-    background-position: center;
+    background-position: center; 
 }
 
 #contenedor{
